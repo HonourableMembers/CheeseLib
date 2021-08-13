@@ -1,0 +1,14 @@
+﻿Cheese Factory Planning
+-----------------------
+
+BaseClass - Cheese (Indexes - Own Array)
+	ID
+	Name
+	Mdate //Date Made
+	BBDate //Date must be eaten before
+	BatchNum
+
+Cheese Production variables
+	Array Cheeses
+	Any other variables will be stored here and be static
+
